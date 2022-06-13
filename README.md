@@ -4,4 +4,5 @@ App Android Nativo de Simulacao de Partidas. Esse repositório foi organnizado e
 
 1. Desenvolvimento Mobile Nativo Para Android
       - [release/desenvolviment-nativo-para-android](https://github.com/matefranca/matches-simulator-app-kotlin/tree/release/desenvolvimento-mobile-nativo-para-android)
-
+2. Componentes, Layouts e UI/UX Em Apps Android
+      - [release/componentes-layouts-ui-ux-em-apps-android]([https://github.com/matefranca/matches-simulator-app-kotlin/tree/release/desenvolvimento-mobile-nativo-para-android](https://github.com/matefranca/matches-simulator-app-kotlin/tree/release/componentes-layouts-ui-ux-em-apps-android))
